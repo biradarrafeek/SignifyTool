@@ -1,9 +1,9 @@
-**Signature App**
+**Signature App:**
 
 The Signature App is a simple web application that allows users to draw signatures on a canvas, customize the text color, background color, and font size, and provides functionalities to clear, undo, redo, save, and retrieve the signature.
 <br/>
 <br/>
-**Features**
+**Features:**
 
     Text Color Picker: Change the color of the text drawn on the canvas.
     Background Color Picker: Change the background color of the canvas.
@@ -13,24 +13,12 @@ The Signature App is a simple web application that allows users to draw signatur
     Save & Download Button: Save the current signature and download it as a PNG image.
     Retrieve Button: Retrieve and display a previously saved signature from local storage.
 
-**Technologies Used**
+**Technologies Used:**
 
     HTML5
     CSS3
     JavaScript
     Bootstrap 4
-
-Usage:
-
-    Clone the repository:
-
-    bash
-
-    git clone https://github.com/your-username/signature-app.git
-    cd signature-app
-
-    Open index.html in your browser:
-    Simply open the index.html file in your preferred web browser.
 
 File Structure:
 
