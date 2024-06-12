@@ -1,7 +1,9 @@
-Signature App
+**Signature App**
 
 The Signature App is a simple web application that allows users to draw signatures on a canvas, customize the text color, background color, and font size, and provides functionalities to clear, undo, redo, save, and retrieve the signature.
-Features
+<br/>
+<br/>
+**Features**
 
     Text Color Picker: Change the color of the text drawn on the canvas.
     Background Color Picker: Change the background color of the canvas.
@@ -79,12 +81,15 @@ Screenshots
 ![Screenshot (370)](https://github.com/biradarrafeek/SignifyTool/assets/90768585/b62ae2f1-e7b1-49b6-b1e7-91ea53ed5608)
 ![Screenshot (369)](https://github.com/biradarrafeek/SignifyTool/assets/90768585/31027b97-582f-4e33-bb7c-9ce90a9598db)
 ![Screenshot (368)](https://github.com/biradarrafeek/SignifyTool/assets/90768585/de07569c-c4dd-45b0-8e6c-68819100ddc3)
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
 
-<b>Hit the Star button <b/>
+<b>Hit the Star button <b/> 
+
